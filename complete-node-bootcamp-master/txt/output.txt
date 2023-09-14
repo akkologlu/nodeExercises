@@ -1,0 +1,33 @@
+This is what we know about my internship: HAVELSAN A.Ş.'de 20 iş günü yapmış olduğum stajımda öğrenmiş olduğum bilgiler ve edindiğim tecrübelerle hazırlamış olduğum bu raporda, kuruluş hakkında genel bilgiler ve organizasyon şemasını verdikten sonra bulunduğum takım ve çalışma arkadaşlarım hakkında bilgiler vereceğim.
+
+Şirketin amacı kamu ve savunma sanayii olmak üzere tüm müşterilerine  bilimsel bilgiye dayalı, özgün, yenilikçi, yüksek teknolojili “ürün, çözüm ve hizmetleri” küresel olarak sunmak, özgün, dijital dönüşüme öncülük edecek, teknoloji, ürün ve çözümler geliştirmektir.
+
+HAVELSAN A.Ş. yurtiçinde Ankara, İstanbul ve Gebze'de; yurtdışında ise ABD, Katar, Malezya, Bangladeş ve Pakistan gibi dünyanın birçok farklı bölgesinde bulunan ofisleri ile yirmiden fazla ülkeye çözümler sunuyor. 
+
+
+
+ÖNSÖZ:
+
+HAVELSAN A.Ş.'deki bu staj döneminde Simülasyon, Otonom ve Platform Yönetim Teknolojileri Genel Müdür Yardımcılığı altında bulunan Yapay Zeka ve Dijital İkiz grubuna bağlı Veri Analitiği Uygulamaları Takımında, takım liderimiz ve mentörüm Taha Yasin İBİŞOĞLU gözetiminde stajımı tamamladım.
+
+Bu staj sürecinde bir şirketin dijital dönüşüm projesinde Frontend Developer Stajyeri olarak görev aldım. Projenin amacı şirketin iş süreçlerinin ve bilgilerinin hızlı bir şekilde, zaman ve para tasarrufu sağlanarak dijital ortama taşınmasıdır.
+
+Dijital dönüşüm kapsamında yapımına katkıda bulunduğum yönetim sistemi projesinde amacım şirket içinde kullanılacak bu sistemin client-side tarafının hızlı, stabil ve sorunsuz çalışmasıdır. Projenin fonksiyonel kısmını React ile dizayn kısmını ise Tailwind CSS ile yaptım.
+
+Bu projede Frontend Developer Uğur Can ÇİFTÇİ ve Backend Developer Burak DALKILIÇ ile beraber çalıştım.
+
+
+SONUÇ VE ÖNERİLER:
+
+Stajım sonucunda mesleki açıdan çok iyi tecrübeler kazandım. İlk kez bir ofiste bir takımla beraber çalışma fırsatı buldum. Takım çalışmasının nasıl olacağı, nasıl senkron bir şekilde ilerleneceği ve iletişim nasıl ve ne şekilde yapılacağı konusunda tecrübe kazandım. Ayrıca kurumsal bir firmada bir iş günü nasıl geçer, insanlar iş vakitlerinde ve boş vakitlerinde neler yaparlar bunları da görmüş oldum. Savunma sanayii şirketinde bulunduğum için yüksek güvenlikli bir yerde işlerin nasıl yürüdüğünü de gözlemlemiş ve öğrenmiş oldum. Ayrıca şirket hiyerarşisinde farklı seviyede insanların birbirleriyle olan iletişiminin nasıl olacağını öğrendim.
+
+Katkıda bulunduğum dijital dönüşüm projesinde React kütüphanesi ile frontend geliştirmeler yaptım. Bütün staj süresi boyunca Visual Studio Code kullarak bu kodları yazdım. API tarafında exploerer için Swagger kullandım. Swagger sayesinde yalnızca uygulamanın tüm uç noktalarına bakmama gerek olmadan, aynı zamanda bir istek göndererek ve yanıt alarak bunları hemen eylemde test etmeme izin veriyor. Bu da test için benim işimi kolaylaştırıyor.
+
+Proje süresince zorlandığım bazı kısımlar oldu. Örneğin projelere dosya yüklerken kullanılan FormData fonksiyonunun implemente edilip backende düzgün şekilde yollanması konusunda biraz vakit harcadım. Ayrıca yüklü dosyaları önizleme yapma özelliği de beni zorlayan kısımlardan birisi oldu.
+
+Zorlandığım başka bir konu profil fotoğradı yüklerken yine backende yollamak konusunda oldu. Backende yollamaya çalıştım fotoğrafların type uyuşmazlığı yüzünden aldığım hataları çözmek için vakit harcadım. Aynı şekilde var olan fotoğrafı editleme işlemi de beni zorlayan konulardan birisi oldu.
+
+Daha önce bir login sayfası ve authentication işlemi yapmadığım için bu özelliği de projeye eklemek beni zorladı. Bu konu üzerine araştırmalar yaptım, dokümanlar okudum ve bazı kodları inceledim. Daha sonra bu özelliği projeme eklemeye çalıştım.
+
+Bunlar dışında bana verilen görevleri elimden geldiğince iyi şekilde yapmaya çalıştım. Bu görevleri bir mühendis olarak çözümlemeye ve optimal sonuçlar üretmeye çalıştım. Bu stajda kazanacağım tecrübeleri de ilerideki iş hayatımda sıklıkca kullanacağımı ve çok işe yarayacağını düşünüyorum..
+Created on 1694524428588
